@@ -1,0 +1,1 @@
+**soubor formálních pravidel, konvencí a datových struktur**, které definují, jakým způsobem spolu mají dvě nebo více zařízení (počítače, servery, síťové prvky) komunikovat, vyměňovat si data a rozumět si

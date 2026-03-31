@@ -1,0 +1,1 @@
+==Media Access Control — unikátní fyzická adresa síťové karty přidělená výrobcem. Nelze změnit (ale lze "spoofovat").==

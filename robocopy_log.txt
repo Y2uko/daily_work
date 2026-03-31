@@ -1,0 +1,17 @@
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : £terì 31. býezna 2026 18:18:28
+   Source = G:\MÅ¯j disk\Daily_work\study\
+     Dest : C:\Users\lukip\Dokumenty\daily_work\
+
+    Files : *.*
+	    
+  Options : *.* /NDL /NFL /S /E /DCOPY:DA /COPY:DAT /PURGE /MIR /Z /NP /R:3 /W:5 
+
+------------------------------------------------------------------------------
+
+2026/03/31 18:18:28 ERROR 3 (0x00000003) Accessing Source Directory G:\MÅ¯j disk\Daily_work\study\
+Syst‚m nem…§e nal‚zt uvedenou cestu.

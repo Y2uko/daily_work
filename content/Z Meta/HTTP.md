@@ -1,0 +1,1 @@
+==HyperText Transfer Protocol — protokol pro přenos webových stránek. Komunikace probíhá na portu 80.==

@@ -1,0 +1,1 @@
+Fyzikální jev, při kterém se v prostoru šíří oscilující elektrické a magnetické pole. Umožňuje přenos energie a informací bez hmotného média.

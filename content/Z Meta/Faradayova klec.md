@@ -1,0 +1,1 @@
+Uzavřený prostor vymezený vodivým materiálem, který odstíní vnější elektromagnetické pole. Uvnitř klece je intenzita vnějšího pole nulová, což se využívá k ochraně elektroniky před rušením nebo odposlechem

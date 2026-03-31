@@ -1,0 +1,1 @@
+Wireless Local Area Network. Lokální síť, která využívá bezdrátové technologie k propojení koncových zařízení s přístupovým bodem.

@@ -1,0 +1,1 @@
+Address Resolution Protocol — překládá IP adresy na MAC adresy v lokální síti.

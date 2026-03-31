@@ -1,0 +1,1 @@
+Domain Name System — "telefonní seznam internetu". Překládá doménová jména (google.com) na IP adresy.

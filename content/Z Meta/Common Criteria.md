@@ -1,0 +1,1 @@
+Mezinárodní norma ISO/IEC 15408 pro hodnocení bezpečnosti IT produktů. Umožňuje výrobcům deklarovat úroveň zabezpečení jejich systémů.
