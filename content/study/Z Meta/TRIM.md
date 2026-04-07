@@ -1,0 +1,1 @@
+Příkaz operačního systému, který informuje SSD o tom, které datové bloky již nejsou potřeba, což umožňuje efektivnější zápis a mazání.

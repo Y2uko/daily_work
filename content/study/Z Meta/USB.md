@@ -1,0 +1,1 @@
+Universal Serial Bus — standardní rozhraní pro připojení periferií k počítači.

@@ -1,0 +1,1 @@
+Nejrozšířenější technologie pro drátové lokální sítě. Definuje fyzické a linkové standardy.

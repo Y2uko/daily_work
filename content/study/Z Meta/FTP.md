@@ -1,0 +1,1 @@
+==File Transfer Protocol — protokol pro přenos souborů. Používá porty 20 (data) a 21 (příkazy).==
