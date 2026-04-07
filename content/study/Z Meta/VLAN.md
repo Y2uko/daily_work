@@ -1,1 +1,0 @@
-==Virtual Local Area Network — logické rozdělení fyzické sítě na izolované segmenty bez nutnosti fyzického oddělení==

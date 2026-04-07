@@ -1,3 +1,0 @@
-Základní firmware základní desky, který inicializuje hardware při startu počítače. Zabezpečení heslem do BIOSu brání útočníkovi změnit pořadí bootování z externích médií.
-
-Heslo v BIOSu brání tomu, aby útočník spustil systém z externího média (USB, CD) a obešel tak přihlášení do OS. **Secure Boot** ověřuje, že bootovaný kód nebyl podvržen. Pořadí boot zařízení je důležité nastavit správně (pevný disk první).

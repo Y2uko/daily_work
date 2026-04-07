@@ -1,1 +1,0 @@
-==Secure Sockets Layer — starší protokol pro šifrování komunikace. Dnes nahrazen TLS.==

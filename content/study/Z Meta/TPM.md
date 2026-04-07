@@ -1,1 +1,0 @@
-Trusted Platform Module. Specializovaný čip pro zabezpečení hardwaru pomocí kryptografických klíčů, využívaný např. pro šifrování disku BitLocker.

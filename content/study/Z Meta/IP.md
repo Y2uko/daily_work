@@ -1,1 +1,0 @@
-==Internet Protocol — protokol zajišťující adresování a směrování paketů v síti. Každé zařízení má svou IP adresu.==

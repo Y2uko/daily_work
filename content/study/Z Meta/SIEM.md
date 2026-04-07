@@ -1,2 +1,0 @@
-- Security Information and Event Management — systém pro centrální sběr, analýzu a korelaci bezpečnostních logů ze všech zařízení v síti.
-- Komplexní nástroj pro sběr, analýzu a korelaci bezpečnostních událostí z celého IT prostředí.

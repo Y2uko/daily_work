@@ -1,1 +1,0 @@
-Post Office Protocol v3 — stahuje e-maily ze serveru do klienta a ze serveru je maže. Port 110.

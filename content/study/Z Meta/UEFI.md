@@ -1,1 +1,0 @@
-Unified Extensible Firmware Interface. Moderní náhrada za BIOS, která podporuje větší disky, rychlejší start a lepší zabezpečení (např. Secure Boot).

@@ -1,1 +1,0 @@
-Síťový příkaz testující dostupnost zařízení v síti. Odesílá ICMP pakety a měří dobu odezvy.

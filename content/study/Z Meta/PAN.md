@@ -1,1 +1,0 @@
-Personal Area Network. Počítačová síť vytvořená pro komunikaci mezi zařízeními v bezprostřední blízkosti uživatele, typicky do 10 metrů.

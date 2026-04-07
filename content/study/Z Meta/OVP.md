@@ -1,1 +1,0 @@
-Over Voltage Protection. Bezpečnostní mechanismus zdroje, který vypne napájení při detekci napětí vyššího, než je povolená mez.

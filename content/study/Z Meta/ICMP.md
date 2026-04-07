@@ -1,1 +1,0 @@
-Internet Control Message Protocol — diagnostický protokol. Používá ho příkaz ping pro testování dostupnosti.

@@ -1,1 +1,0 @@
-==User Datagram Protocol — rychlý protokol bez potvrzování. Vhodný pro streaming nebo hry, kde nevadí ztráta pár paketů.==

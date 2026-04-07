@@ -1,1 +1,0 @@
-Internet Message Access Protocol — protokol pro příjem e-mailů se synchronizací na serveru. Port 143.
