@@ -1,4 +1,6 @@
+---
+title: Welcome to Quartz
+---
 
-Chao Chao Chao
-
-la ver te de
+This is a blank Quartz installation.
+See the [documentation](https://quartz.jzhao.xyz) for how to get started.
