@@ -1,0 +1,1 @@
+Triple DES — aplikuje DES třikrát za sebou. Bezpečnější než DES, ale pomalejší. Postupně nahrazován AES.

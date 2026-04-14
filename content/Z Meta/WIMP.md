@@ -1,0 +1,1 @@
+uživatelské rozhraní vyvinuté v roce 1973 pro počítač Xerox Alto, které definovalo standard interakce s OS.

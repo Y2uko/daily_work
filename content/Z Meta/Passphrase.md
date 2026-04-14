@@ -1,0 +1,1 @@
+Dlouhé heslo složené z několika náhodných slov. Je odolnější vůči útokům hrubou silou než krátká, komplexní hesla.

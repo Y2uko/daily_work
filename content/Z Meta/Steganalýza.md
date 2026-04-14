@@ -1,0 +1,1 @@
+Vědní obor zabývající se detekcí skrytých zpráv v digitálních médiích. Analyzuje statistické odchylky v datech, které vznikly vložením tajné informace.

@@ -1,0 +1,1 @@
+Cloudová služba poskytující CDN, ochranu před DDoS útoky a DNS. Chrání weby před přetížením.

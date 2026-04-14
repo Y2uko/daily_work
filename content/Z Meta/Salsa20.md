@@ -1,0 +1,1 @@
+Proudová šifra navržená Danielem J. Bernsteinem. Vyniká vysokou rychlostí a bezpečností, často využívána v protokolech jako TLS nebo v systémech pro šifrování disků.

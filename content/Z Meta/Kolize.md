@@ -1,0 +1,1 @@
+Stav, kdy dvě různé vstupní zprávy vygenerují po aplikaci hašovací funkce identický výstup (hash). U bezpečných funkcí musí být pravděpodobnost kolize extrémně nízká.

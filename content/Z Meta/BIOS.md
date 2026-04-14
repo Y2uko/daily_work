@@ -1,0 +1,1 @@
+Basic Input/Output System. Firmware uložený na základní desce, který inicializuje hardware při startu počítače.

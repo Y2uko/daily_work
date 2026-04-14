@@ -1,0 +1,1 @@
+Secure Shell. Síťový protokol pro bezpečné vzdálené ovládání počítače a šifrovaný přenos dat mezi dvěma zařízeními.

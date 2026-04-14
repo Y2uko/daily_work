@@ -1,0 +1,1 @@
+Two-Factor Authentication — dvoufaktorové ověření. I při krádeži hesla útočník neuspěje bez druhého faktoru.

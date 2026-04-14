@@ -1,0 +1,1 @@
+Cílený útok na konkrétní osobu nebo organizaci, využívající detailní znalosti o oběti.

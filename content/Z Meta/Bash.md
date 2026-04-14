@@ -1,0 +1,1 @@
+Bourne Again Shell. Výchozí příkazový interpret v mnoha unixových systémech umožňující automatizaci úloh pomocí skrip

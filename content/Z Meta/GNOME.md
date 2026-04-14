@@ -1,0 +1,1 @@
+GNU Network Object Model Environment. Populární grafické uživatelské prostředí pro systémy založené na Linuxu zaměřené na jednoduchost a produktivitu.

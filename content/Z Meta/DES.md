@@ -1,0 +1,1 @@
+Data Encryption Standard — starý symetrický algoritmus s 56bitovým klíčem. Dnes považován za nedostatečně bezpečný.
