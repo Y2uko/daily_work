@@ -1,6 +1,6 @@
 **FUNKCE**
 - z bitů vytváří rámce
-- komunikace s okolníma vrstvama (Fyzická a Sítová)
+- komunikace s okolníma vrstvami (Fyzická a Sítová)
 - řešení kolizí
 - pracuje s mac adresami
 - spolehlivá 

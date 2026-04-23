@@ -1,0 +1,1 @@
+Databáze navržené pro nestrukturovaná data, vysokou škálovatelnost a distribuované systémy. Často nepoužívají tabulkovou strukturu (např. dokumentové databáze jako MongoDB).

@@ -1,0 +1,1 @@
+Softwarový rámec vyvíjený Microsoftem, který poskytuje běhové prostředí (CLR), knihovny tříd a nástroje pro vývoj aplikací napříč různými platformami.

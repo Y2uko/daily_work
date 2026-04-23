@@ -25,32 +25,52 @@
 19. Segmentace počítačových sítí
 20. ==Aplikační protokoly v sítích==
 
+### Programování a vývoj aplikací
+
+#### Webovky
+1. Webové prezentace ve formátu HTML5
+2. Využívání CSS v kombinaci s HTML
+3. Dynamické webové stránky
+
+#### Robotika
+4. Základní pojmy v oblasti robotiky
+5. Úvod do programování robotů
+6. Softwarová a hardwarová výbava robota
+
+#### Databáze
+8. Databáze
+9. SQL databáze
+
+#### Programování
+5. IoT (programování, bezpečnost a jednotlivé části IoT)
+6. Základy algoritmizace
+7. Principy OOP – třída, objekt, skládání, dědění, zapouzdření, delegování a polymorfizmus
+	**C#**
+	11. Jazyk C# - základní struktury a principy, datové typy a proměnné
+	12. C# a události tříd, přidání reference na obslužnou metodu, tvorba obslužných metod.
+
+	**Aplikace**
+	13. WinForms – standardní ovládací prvky
+	14. Vývojové prostředí BlueJ – Tvorba tříd, vztahy mezi třídami, tvorba dokumentace, volání
+	    statických a nestatických metod, užití příkazového panelu. Jednosměrný uzlový seznam.
+
+	**Práce s Třídami**
+	15. Atributy třídy, modifikátory přístupu k atributům, přístup k atributům pomocí vlastností tříd.
+	16. Konstruktor třídy, přetížené konstruktory, konstruktor s parametrem a bezparametrický
+	17. Metody tříd - návratový typ, parametry, modifikátory přístupu.
+
+	 **Návrhové vzory**
+	18. Návrhové vzory - Utility, Singleton + tovární metoda, Enum.
+	19. Návrhové vzory - Interface – Servant, Generické třídy, Messenger.
 
 ### praktická část MZ 
 
-- ==PROJETÉ==
-- **NAUČENÉ**
-
- 1. **Zabezpečení počítačové sítě P2P**
- 2. ==Zabezpečení sítě client – server== 
- 3. ==Konfigurace mail serveru s protokolem POP3== 
- 4. ==Konfigurace mail serveru s protokolem IMAP4==
- 5. ==Firemní politika==
- 6. **Návrh Active Directory** 
- 7. ==Bezpečnost dat v systému== 
- 8. ==Realizace webhostingu==
- 9. **Segmentace sítě**
- 10. ==Realizace počítačové sítě s aktivním prvkem== 
- 11. ==Projekt z robotiky #1== 
- 12. ==Projekt z robotiky #2== 
- 13. Projekt v oblasti programování #1
- 14. Projekt v oblasti programování #2 
- 15. Projekt v oblasti programování #3
+**DONE**
 
 
 ==Domácí úkoly/testy==
 > 
-> **Český jazyk literatura 16. 4. 2026**
+> 
 
 
 ==osobní projekty==

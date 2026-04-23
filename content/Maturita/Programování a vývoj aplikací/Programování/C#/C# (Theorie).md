@@ -1,8 +1,9 @@
 - objektově orientovaný programovací jazyk vytvoření Microsoftem.
-- využívá se s platformou NET Framework (*bezplatná open-source platforma pro vývojáře od společnosti Microsoft určená k vytváření, spouštění a nasazování různých aplikací*), který umožňuje spouštění aplikací na více platformách, včetně Windows, macOS a Linux s .NET Core a novějšími verzemi 
-- .NET. Jeho syntaxe je podobná jiným jazykům založeným na C, jako jsou C++ a Java.
+- využívá se s platformou NET Framework (*bezplatná open-source platforma pro vývojáře od společnosti Microsoft určená k vytváření, spouštění a nasazování různých aplikací*), který umožňuje spouštění aplikací na více platformách, včetně Windows, macOS a Linux s .[[NET]] Core a novějšími verzemi 
+- .NET - Jeho syntaxe je podobná jiným jazykům založeným na C, jako jsou C++ a Java.
 - Java a C++ jsou zároveň jazyk ze kterých C# vzniknul
 - V C# neexistuje vícenásobná dědičnost (*každá třída může dědit pouze od jedné třídy*)
+-  rozlišuje velikost písmen (tzv. case sensitive).
 - neexistují globální **Proměnné** a ==Metody==, vše musí být uvnitř Tříd
 - používá CTS (common type system)
 
@@ -37,6 +38,9 @@
 ==Metody==
 - Jsou poslední úrovní před samotným kódem. Dělí se na funkce a procedury. Zvláštním metody je main metoda, která je unikátní v celém projektu a je vždy tou jedinou, která spouští náš program.​
 
+==Objekt== 
+- Konkrétní instance třídy. Vzniká pomocí operátoru new *(Operátor pro vytvoření nové instance třídy (alokace paměti a volání konstruktoru)*, který zavolá konstruktor a alokuje paměť na Heap.
+
 ![[Pasted image 20260310163447.png|428]]
 
 **Kompilátor** - umožnuje psát kód naší syntaxí a následně si to program přeloží do strojového kódu​
@@ -57,9 +61,8 @@
 3. **Výčtové typy**
     - Množina předem definovaných hodnot (např. Dny v týdnu)
 
-#### Referenční datové typy
-
-- Neuchovávají na rozdíl od typů hodnotových pouze hodnotu samotnou, ale odkaz na místo v paměti, kde je požadovaná instance uložena
+-  **Referenční datové typy**
+	- Neuchovávají na rozdíl od typů hodnotových pouze hodnotu samotnou, ale odkaz na místo v paměti, kde je požadovaná instance uložena
 
 ### Jednoduché datové typy
 
@@ -130,6 +133,10 @@
 	- bool (může být pouze TRUE/FALS)
 
 
+### Pole a práce s daty
 
+Pole slouží k uložení většího množství hodnot stejného typu. Každá položka má svůj index, přičemž v C# začínáme vždy od nuly. Pokud definujeme pole o velikosti 5, indexy jsou 0 až 4.
 
-
+- **Vícerozměrná pole (matice):** Umožňují ukládat data do tabulek (např. `int[,] matice = { {6, 7}, {5, 6} };`).
+- **Práce s polem:** K procházení polí nejčastěji využíváme cykly `for` nebo `foreach`, který je v C# velmi efektivní pro iteraci kolekcí.
+- **Indexování:** První index má pořadí 0, velikost pole je tedy n-1. Při definici `int[] pole = new int[5]` je interval indexů 0 až 4.

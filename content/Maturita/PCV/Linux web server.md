@@ -1,7 +1,7 @@
 **Instalace Linuxu**
 - ve virtual boxu vytvořte nový
 - vložte iso-file ubuntu (verze)
-- pojmenujte soubor, nastavte si velikost a jméno s heslem.
+- pojmenujte soubor, nastavte si velikost a jméno s heslem
 - při zapnutí přepněte v nastavení na ==Sítový most==
 
 **Step 1: Install LAMP Stack**
