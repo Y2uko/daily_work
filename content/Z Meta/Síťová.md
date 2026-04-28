@@ -3,9 +3,9 @@
 - adresace (IP adresy)
 - směrování paketů
 - segmentace sítě pomocí VLAN
-- používané protokoly: ICMP, IP, RIP, OSPF, BG, BGB
+- používané protokoly: ICMP, IP, RIP, OSPF, BG, BGP
 **ZAŘÍZENÍ**
-- L3 switch, router
+- L3 switch, router, Bridge
 **VZNIKÁ**
 - pakety
 
@@ -14,7 +14,8 @@
 - **IGP**
 	- v lokálních sítích
 	- používají 2 metody pro typ routování
-	    - Next-hop - distance-vector, cena linky - link-state
+	    - Next-hop - ==distance-vector== 
+	    - cena linky - ==link-state==
 - **EGP**
 	- pouze v internetu
 	- jediná metoda

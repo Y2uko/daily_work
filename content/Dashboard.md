@@ -38,7 +38,7 @@
 6. Softwarová a hardwarová výbava robota
 
 #### Databáze
-8. Databáze
+8. ==Databáze==
 9. SQL databáze
 
 #### Programování

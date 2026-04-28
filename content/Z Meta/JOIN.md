@@ -1,0 +1,1 @@
+Operace v SQL, která umožňuje spojit data ze dvou nebo více tabulek na základě společného sloupce.

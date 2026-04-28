@@ -1,0 +1,1 @@
+Umělá inteligence. Obor informatiky zaměřený na tvorbu systémů schopných simulovat lidské kognitivní funkce, jako je učení, rozhodování a řešení problémů.

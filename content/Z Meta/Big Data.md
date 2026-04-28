@@ -1,0 +1,1 @@
+Objemná a komplexní datová sada, kterou nelze efektivně zpracovat běžnými databázovými nástroji. Vyžaduje pokročilé algoritmy pro extrakci vzorců a trendů.
