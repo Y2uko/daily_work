@@ -1,0 +1,1 @@
+ - Útok postranním kanálem. Metoda napadení, která využívá úniky informací z fyzické implementace systému, jako je spotřeba energie, elektromagnetické vyzařování nebo časování operací.

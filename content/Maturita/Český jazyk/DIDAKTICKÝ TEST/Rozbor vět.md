@@ -63,7 +63,8 @@ Stavba vět se zabývá tím, jak jsou věty a jejich části uspořádány a�
 	- _**Je** meloun zelenina, nebo ovoce?_
 ### souvětí 
 - celek složený z více vět, který vyjadřuje složitější myšlenku nebo více myšlenek
--  se skládá z několika vět. Obsahuje tolik sloves v určitém tvaru (resp. tolik přísudků), kolik je v souvětí vět. U souvětí studujeme jejich [stavbu](https://www.umimecesky.cz/cviceni-stavba-vet) (věta **hlavní** a **vedlejší**, jejich vztahy)
+-  Obsahuje tolik sloves v určitém tvaru (resp. tolik přísudků), kolik je v souvětí vět. U souvětí studujeme jejich [stavbu](https://www.umimecesky.cz/cviceni-stavba-vet), věta **hlavní** a **vedlejší**
+- jejich vztahy:
 	- ==Hlavní věta== stojí sama o sobě a má úplný smysl. 
 	- ==Vedlejší věta== je naopak závislá na větě hlavní a doplňuje ji, přičemž nemůže existovat samostatně. 
 - Věty hlavní i vedlejší spolu mohou být v různých vztazích.

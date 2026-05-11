@@ -4,7 +4,7 @@
 	- Přeposílá data na základě IP adres 
 - Switch pracující na síťové vrstvě (vrstva 3/ model OSI). Umí směrovat pakety jako router a spravovat VLAN.
 - kombinuje funkce klasického switche (přepínání na úrovni datové vrstvy) s funkcemi routeru (směrování na úrovni síťové vrstvy).
-- Pracuje na **3. vrstvě OSI modelu (síťová vrstva)**, takže rozumí IP adresám a dokáže směrovat provoz mezi různými sítěmi nebo VLANy. Přepínání přitom provádí hardwarově pomocí speciálních čipů (ASIC), což je mnohem rychlejší než softwarové směrování klasického routeru.
+- Rozumí IP adresám a dokáže směrovat provoz mezi různými sítěmi nebo VLANy. Přepínání přitom provádí hardwarově pomocí speciálních čipů (ASIC), což je mnohem rychlejší než softwarové směrování klasického routeru.
 - Více vhodný než L2 pro větší a složitější sítě - vysoký objem interního provozu v LAN síti *(datová centra, firemní sítě)*
 
 ### Rozdíl mezi L2 a L3 switchem

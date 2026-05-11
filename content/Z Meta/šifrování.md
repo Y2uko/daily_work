@@ -9,7 +9,7 @@
 		- šifrování disku
 		- VPN
 		-  WI-FI (WPA2, WPA3)
-	- ochrana před při cestě klíče za příjemcem
+	- ochrana při cestě klíče za příjemcem
 		- **[[AES]]** (**Advanced Encryption Standard**): V současnosti celosvětový standard pro symetrické šifrování. Je odolný vůči útokům hrubou silou a využívá se v zabezpečení Wi-Fi (`WPA2/3`) nebo šifrování disků (`BitLocker`).
 		- [[DES]] / [[3DES]]: Starší šifrovací standardy. DES (Data Encryption Standard) je kvůli krátkému 56bitovému klíči dnes považován za prolomený, 3DES (Triple DES) aplikuje DES třikrát za sebou, což zvyšuje bezpečnost, ale je pomalý a postupně se od něj ustupuje
 		- [[Salsa20]]

@@ -1,17 +1,19 @@
 **ROUTER** (směrovač) 
-- je síťové zařízení, které **přeposílá datové pakety** mezi různými sítěmi. Spojuje například domácí síť s internetem.
-- slouží k **routování podsítí** *(vyhledávání správné cesty pro daný packet*
-- *vyhledávaní správné cesty pro daný packet)*
-- směřuje paket skrz podsítí, popřípadě vyhodí packet s podsítě pomocí takzvané defaultní routy
-- princip routeru:
-	- Přijme datový paket
-	- Přečte cílovou IP adresu
-	- Nahlédne do **směrovací tabulky** (routing table)
-	- Odešle paket správným rozhraním (portem) směrem k cíli
+- je síťové zařízení, které ==přeposílá datové pakety mezi různými sítěmi.== Spojuje například domácí síť s internetem.
+- slouží k **routování podsítí** *(vyhledávání správné cesty pro daný packet)*
+	- směřuje paket skrz podsítí, popřípadě vyhodí packet s podsítě pomocí takzvané defaultní routy
+- **princip routeru:**
+	1.  Přijme datový paket
+	2. Přečte cílovou IP adresu
+	3.  Nahlédne do **směrovací tabulky** (routovací tabulky)
+	4.  Odešle paket správným rozhraním (portem) směrem k cíli
+- ==Proč se používá ?==
+	- Na rozdíl od **Switche**, který propojuje počítače jen v místní síti, **Router** propojuje jakékoliv dvě sítě. Často se používá v sítích WAN, ale také pro připojení lokální sítě k Internetu. Rozdíl mezi přepínači a směrovači si můžeme pro ilustraci představit tak, že přepínače jsou cesty propojující všechny města ve státě a směrovače jsou hraniční přechody mezi jednotlivými státy.
 - Typy směřování:
 	- **Statické** 
 		- administrátor plní routovací tabulky a sám ručně nastaví cesty
-		- Jednoduché, stabilní, ale nepružné. Vhodné pro malé sítě
+		- Jednoduché, stabilní, ale nepružné
+		- Vhodné pro malé sítě
 	- **Dynamické**  
 		- routování na základě routovacích protokolů
 		- Router se **sám učí** cesty pomocí protokolů (automaticky se přizpůsobuje změnám sítě)
