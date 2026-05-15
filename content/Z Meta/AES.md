@@ -1,1 +1,2 @@
-Advanced Encryption Standard — nejpoužívanější symetrický šifrovací algoritmus. Délky klíčů 128/192/256 bitů.
+- Advanced Encryption Standard — nejpoužívanější symetrický šifrovací algoritmus. Délky klíčů 128/192/256 bitů.
+-  extrémně silný šifrovací algoritmus, který se používá i pro ochranu vládních a vojenských dat

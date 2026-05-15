@@ -1,0 +1,5 @@
+- Slouží jako elektronický klíč (např. v mobilní aplikaci nebo fyzickém generátoru) pro přihlašování do bankovnictví či firemních systémů.
+- Tokeny generují jednorázové kódy, které nelze opakovaně zneužít.
+- Příklad:
+	- Mobilní aplikace jako (**Google Authenticator**, **Microsoft Authenticator**) která zobrazuje časově omezené šestimístné kódy pro přihlášení.
+		- Po použití nebo uplynutí času už neplatí

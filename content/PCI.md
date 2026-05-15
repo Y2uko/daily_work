@@ -1,0 +1,4 @@
+- pro připojení periferií, rozšiřujících karet apod.
+	- pro domácí počítače má rychlost 33 MHz, pro servery 66 MHz
+	- připojena k South bridge
+	- od roku 2004 nahrazeno novější verzí PCIe

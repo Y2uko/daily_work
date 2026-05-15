@@ -1,0 +1,3 @@
+- Extrémní rychlost (připojeno přímo na PCIe sběrnici) a úspora místa (žádné kabely).
+	- **Klíčování (zářezy):** Existují různé typy (B key, M key), které určují kompatibilitu a rychlost.
+	- Nejčastější formát je **2280** (22 mm šířka, 80 mm délka).

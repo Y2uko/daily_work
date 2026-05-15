@@ -7,14 +7,14 @@
 1. ==Základy kybernetické bezpečnosti== 
 2. ==Bezpečnost na internetu a v lokálních sítích== 
 3. ==Kybernetické hrozby a ochrana proti nim==
-4. ==Revitalizace počítačové sítě== 
+4. **Revitalizace počítačové sítě** 
 5. ==Úloha aktualizací a monitorovacích systémů v oblasti kybernetiky== 
 6. ==Bezpečnost dat a jejich ochrana==
 7. **Steganografie a kryptografie v kybernetické bezpečnosti**
 8. ==Autorský zákoník a zákon o kybernetické bezpečnosti v běžném životě==
 9. ==Organizace a týmy zapojené do kybernetické bezpečnosti== 
 10. ==Serverové a desktopové operační systémy== 
-11. Bezpečnost operačních systémů z pohledu kybernetiky 
+11. ==Bezpečnost operačních systémů z pohledu kybernetiky== 
 12. ==Bezdrátová komunikace a její zabezpečení==
 13. ==Hardware a periferní zařízení==
 14. ==Aktivní a pasivní síťové prvky== 
@@ -30,7 +30,7 @@
 #### Webovky
 1. ==Webové prezentace ve formátu HTML5==
 2. ==Využívání CSS v kombinaci s HTML==
-3. Dynamické webové stránky
+3. ==Dynamické webové stránky==
 
 #### Robotika
 4. ==Základní pojmy v oblasti robotiky==
@@ -43,8 +43,8 @@
 
 #### Programování
 5. ==IoT (programování, bezpečnost a jednotlivé části IoT)==
-6. Základy algoritmizace
-7. Principy OOP – třída, objekt, skládání, dědění, zapouzdření, delegování a polymorfizmus
+ [[6. základy algoritmizace]]
+6. Principy OOP – třída, objekt, skládání, dědění, zapouzdření, delegování a polymorfizmus
 	**C#**
 	11. Jazyk C# - základní struktury a principy, datové typy a proměnné
 	12. C# a události tříd, přidání reference na obslužnou metodu, tvorba obslužných metod.

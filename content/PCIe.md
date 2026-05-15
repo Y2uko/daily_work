@@ -1,0 +1,8 @@
+- nová implementace sběrnice PCI – propustnost až 8 GB/s; dnes již vytlačuje i původní PCI
+- tabulka rychlostí
+	- 1. x1 4 GB/s 8 GB/s 
+	- x4 16 GB/s 32 GB/s 
+	- x8 32 GB/s 64 GB/s
+	- x16 64 GB/s 128 GB/s
+- x16 používá se pro Grafiku
+- zbytek může být (rychlé síťové karty, zvukové karty, pevné disky)

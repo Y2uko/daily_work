@@ -106,4 +106,3 @@
 - national parks: **the Giant Mountains, the Šumava, České Švýcarsko** and **Podyjí​**
 - amazing rock cities : Adrspach-Teplice Rocks, Prachovské Rocks​
 - ponds - Bohemia, Macha
-- 
