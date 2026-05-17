@@ -1,0 +1,8 @@
+- Konstruktor je speciální metoda, která se automaticky volá při vytváření (inicializaci) nové instance třídy. Jeho hlavním úkolem je přiřadit atributům počáteční hodnoty.
+- nemá návratový typ (ani `void`) a jmenuje se stejně jako třída
+- pokud ho nedefinujeme, C# vygeneruje automaticky bezparametrický konstruktor
+- **Počet konstruktorů:** 
+	- Můžeme jich mít tolik, kolik máme **atributů**, plus jeden bezparametrický.
+		- Bezparametrický konstruktor neobsahuje žádné parametry, a tudíž vytvoří vždy ten samý objekt.
+- `this` Uvnitř konstruktoru používáme klíčové slovo `this` pro odlišení atributu třídy od parametru metody (např. `this.barva = barva;`).
+- **výjimky** - Standardně je konstruktor `public`, ale existují případy (např. návrhový vzor [[Singleton]]), kdy může být `private`, aby nebylo možné vytvořit instanci třídy zvenčí.

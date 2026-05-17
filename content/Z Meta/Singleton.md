@@ -1,0 +1,1 @@
+Návrhový vzor, který zajišťuje, že třída má pouze jednu instanci a poskytuje k ní globální přístupový bod.

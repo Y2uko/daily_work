@@ -4,9 +4,9 @@
 - ==PROJETÉ==
 - **NAUČENÉ**
 
-1. ==Základy kybernetické bezpečnosti== 
-2. ==Bezpečnost na internetu a v lokálních sítích== 
-3. ==Kybernetické hrozby a ochrana proti nim==
+1. **Základy kybernetické bezpečnosti**
+2. **Bezpečnost na internetu a v lokálních sítích** 
+3. **Kybernetické hrozby a ochrana proti nim**
 4. **Revitalizace počítačové sítě** 
 5. ==Úloha aktualizací a monitorovacích systémů v oblasti kybernetiky== 
 6. ==Bezpečnost dat a jejich ochrana==
@@ -28,14 +28,14 @@
 ### Programování a vývoj aplikací
 
 #### Webovky
-1. ==Webové prezentace ve formátu HTML5==
-2. ==Využívání CSS v kombinaci s HTML==
-3. ==Dynamické webové stránky==
+1. **Webové prezentace ve formátu HTML5**
+2. **Využívání CSS v kombinaci s HTML**
+3. **Dynamické webové stránky**
 
 #### Robotika
 4. ==Základní pojmy v oblasti robotiky==
-5. Úvod do programování robotů
-6. Softwarová a hardwarová výbava robota
+5. Úvod do programování robotů (SKIP)
+6. Softwarová a hardwarová výbava robota (SKIP)
 
 #### Databáze
 8. ==Databáze==
@@ -43,16 +43,15 @@
 
 #### Programování
 5. ==IoT (programování, bezpečnost a jednotlivé části IoT)==
- [[6. základy algoritmizace]]
-6. Principy OOP – třída, objekt, skládání, dědění, zapouzdření, delegování a polymorfizmus
+ -  [[základy algoritmizace]]
+5. ==Principy OOP – třída, objekt, skládání, dědění, zapouzdření, delegování a polymorfizmus==
 	**C#**
-	11. Jazyk C# - základní struktury a principy, datové typy a proměnné
-	12. C# a události tříd, přidání reference na obslužnou metodu, tvorba obslužných metod.
+	11. ==Jazyk C# - základní struktury a principy, datové typy a proměnné==
+	12. ==C# a události tříd, přidání reference na obslužnou metodu, tvorba obslužných metod.==
 
 	**Aplikace**
 	13. WinForms – standardní ovládací prvky
-	14. Vývojové prostředí BlueJ – Tvorba tříd, vztahy mezi třídami, tvorba dokumentace, volání
-	    statických a nestatických metod, užití příkazového panelu. Jednosměrný uzlový seznam.
+	14. Vývojové prostředí BlueJ – Tvorba tříd, vztahy mezi třídami, tvorba dokumentace, volání statických a nestatických metod, užití příkazového panelu. Jednosměrný uzlový seznam.
 
 	**Práce s Třídami**
 	15. Atributy třídy, modifikátory přístupu k atributům, přístup k atributům pomocí vlastností tříd.

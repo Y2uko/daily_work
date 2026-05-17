@@ -1,0 +1,17 @@
+- Soběstačná entita (ucelená jednotka), která obsahuje data a funkčnost 
+- Je instancí určité třídy 
+- má konkrétní místo v paměti
+- Vlastnosti objektu:
+	- **Atributy** (vlastnosti) = proměnné
+	- **Metody**
+		- Podprogram, který primárně pracuje s proměnnými
+		- Může mít další parametry (2 typy parametrů)
+			- *Funkce* - vrací hodnotu, používá se příkazem `return`
+			- *Procedura* - nevrací hodnotu, používá se zde nevratný typ neboli `void`
+		- Mají ==modifikátor přístupu== 
+			- Přístup k proměnným a metodám může být řízen uvedením modifikátoru před deklaraci prvku
+			- mezi základní modifikátory patři:
+				- `public` Prvek je přístupný odkudkoliv, tedy z jakékoliv třídy i mimo ni.
+				- `private` Prvek je přístupný pouze uvnitř třídy, ve které byl nadefinován. Zvenčí je neviditelný.
+				- `protected` Přístupný pouze v rámci dané třídy a jejích potomků (tzv. při dědičnosti).
+				- `package-private` (bez uvedení modifikátoru): Přístupný pouze v rámci jednoho balíčku (např. v Javě).

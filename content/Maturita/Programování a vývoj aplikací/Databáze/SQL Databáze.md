@@ -5,7 +5,8 @@
 - Původně vznikl jako jazyk SEQUEL, který byl později upraven a přejmenován.
 - Dnes je standardem verze SQL3. I když se tento standard snaží sjednotit způsob, jakým databáze ovládáme, v praxi každá databáze (např. **MySQL** , **PostgreSQL** ) přidává vlastní rozšíření. Kvůli tomu není kód napsaný pro jednu databázi vždy přímo přenositelný do jiné.
 - Data jsou uložená v tabulkách
-- používá **relace** - vyžaduje id u každého záznamu
+	- používá **relace** - vyžaduje id u každého záznamu - 
+	- tabulky jsou navzájem propojeny 
 
 
 ==Základní příklad zápisu dotazu==
@@ -43,7 +44,7 @@ SELECT jmeno, prijmeni FROM uzivatele WHERE vek > 18;
 	- **DML** *(Data Manipulation Language)*
 		- Používá se pro práci s obsahem tabulek. 
 		- Patří sem:
-			- SELECT (čtení dat)
+			- `SELECT` (čtení dat)
 			- `INSERT` (vkládání nových řádků)
 			- `UPDATE` (úprava existujících záznamů) 
 			- `DELETE` (mazání záznamů)

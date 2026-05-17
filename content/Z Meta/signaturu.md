@@ -1,0 +1,1 @@
+- vstupní parametry a návratový typ
