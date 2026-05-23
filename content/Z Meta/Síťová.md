@@ -5,7 +5,7 @@
 - segmentace sítě pomocí VLAN
 - používané protokoly: ICMP, IP, RIP, OSPF, BG, BGP
 **ZAŘÍZENÍ**
-- L3 switch, router, Bridge
+- L3 switch, router, 
 **VZNIKÁ**
 - pakety
 

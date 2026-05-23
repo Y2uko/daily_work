@@ -1,0 +1,1 @@
+Každá proměnná musí mít jasně definovaný datový typ (např. `int` pro celé číslo, `string` pro text).

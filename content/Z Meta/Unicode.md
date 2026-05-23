@@ -1,0 +1,1 @@
+Standard pro kódování znaků, který umožňuje reprezentovat texty ve většině světových jazyků pomocí unikátních číselných kódů.

@@ -1,0 +1,1 @@
+- (Data/Stav): Jsou to proměnné uvnitř objektu, které uchovávají jeho stav a informace (např. jméno, barva, věk).

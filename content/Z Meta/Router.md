@@ -36,3 +36,5 @@
 | **OSPF**  | Link-state      | Rychlý, používá Dijkstrův algoritmus       | Velké podnikové sítě                     |
 | **EIGRP** | Hybrid          | Cisco proprietární                         | Cisco prostředí                          |
 | **BGP**   | Path-vector     | Páteř internetu, spojuje autonomní systémy | systémySměrování mezi ISP / na internetu |
+|           |                 |                                            |                                          |
+![[Pasted image 20260522091420.png|570]]
