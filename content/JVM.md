@@ -1,0 +1,1 @@
+Java Virtual Machine. Virtuální stroj, který umožňuje spouštět zkompilovaný bytecode na jakémkoliv hardwaru, čímž zajišťuje přenositelnost kódu mezi různými systémy.

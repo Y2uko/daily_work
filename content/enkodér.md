@@ -1,0 +1,1 @@
+Senzor měřící otáčky motoru, který poskytuje zpětnou vazbu o ujeté vzdálenosti nebo aktuální pozici robotického ramene.

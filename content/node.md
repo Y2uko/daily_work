@@ -1,0 +1,1 @@
+Uzel v ROS, který představuje samostatný proces vykonávající specifickou úlohu, např. ovládání senzoru nebo zpracování obrazu.

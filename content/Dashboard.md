@@ -17,10 +17,10 @@
 14. [x] Aktivní a pasivní síťové prvky
 15. [x] Síťové vrstevnaté modely
 16. [x] Základy počítačových sítí
-17. [ ] Bezpečnost v sítích
-18. [ ] IP adresace
-19. [ ] Segmentace počítačových sítí
-20. [ ] Aplikační protokoly v sítích
+17. [x] Bezpečnost v sítích
+18. [x] IP adresace
+19. [x] Segmentace počítačových sítí
+20. [x] Aplikační protokoly v sítích
 
 ### Programování a vývoj aplikací
 
@@ -29,7 +29,7 @@
 3. [x] Dynamické webové stránky
 4. [x] Základní pojmy v oblasti robotiky
 5. [x] IoT (programování, bezpečnost a jednotlivé části IoT)
-6. [ ] Úvod do programování robotů
+6. [x] Úvod do programování robotů
 7. [ ] Softwarová a hardwarová výbava robota
 8. [x] Databáze
 9. [x] SQL databáze
@@ -39,7 +39,7 @@
 13. [x] Atributy třídy, modifikátory přístupu k atributům, přístup k atributům pomocí vlastností tříd.
 14. [x] Konstruktor třídy, přetížené konstruktory, konstruktor s parametrem a bezparametrický 
 15. [x] Metody tříd - návratový typ, parametry, modifikátory přístupu.
-16. [ ] WinForms – standardní ovládací prvky
+16. [x] WinForms – standardní ovládací prvky
 17. [x] C# a události tříd, přidání reference na obslužnou metodu, tvorba obslužných metod.
 18. [ ] Vývojové prostředí BlueJ – Tvorba tříd, vztahy mezi třídami, tvorba dokumentace, volání statických a nestatických metod, užití příkazového panelu. Jednosměrný uzlový seznam. 
 19. [x] Návrhové vzory - Utility, Singleton + tovární metoda, Enum.
